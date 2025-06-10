@@ -10,7 +10,7 @@ You are free to:
 - Share or adapt with proper credit.
 
 **Please attribute** the creator: 
-**Swati Lakshmi**
+**Swati Lakshmi**,
 **Shubham Rajendra Bhelau**  
 (Optionally, include a link to this GitHub repo when using the material)
 
